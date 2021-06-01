@@ -5,4 +5,4 @@ prueba de repositorio
 
 Github para desarrolladores
 
-[Visita mi blog](https://www.linkedin.com/in/john-alexander-leal-giraldo/)
+[Visita mi Linkedin](https://www.linkedin.com/in/john-alexander-leal-giraldo/)
